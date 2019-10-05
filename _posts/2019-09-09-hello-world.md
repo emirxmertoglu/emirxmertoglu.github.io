@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello, World!
+comments: true
 ---
 
 #### Welcome to my personal web page

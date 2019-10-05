@@ -22,6 +22,9 @@ layout: default
           <div class="post-meta">
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>
           </div>
+          <div>
+            <a href="https://emirxmertoglu.github.io{{ post.url }}#disqus_thread">0 Comments</a>
+          </div>
         </div>
       </article>
     {% endfor %}
